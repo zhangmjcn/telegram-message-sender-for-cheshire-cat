@@ -46,6 +46,6 @@ The plugin provides error messages when:
 ## Development
 This plugin is open source. Feel free to contribute by submitting pull requests or reporting issues on the repository.
 ## License
-[LICENSE] (./LICENSE)
+[GNU GENERAL PUBLIC LICENSE](./LICENSE)
 ## Author
 Jay ZHANG (zhangmjcn@gmail.com)
