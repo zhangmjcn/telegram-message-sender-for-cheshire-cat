@@ -1,0 +1,8 @@
+{
+    "name": "Telegram message sender",
+    "description": "Send messages to telegram",
+    "version": "0.1.0",
+    "author_name": "Jay ZHANG",
+    "author_url": "zhangmjcn@gmail.com",
+    "tags": "Telegram, messages"
+}
