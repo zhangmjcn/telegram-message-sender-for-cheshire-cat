@@ -12,7 +12,7 @@ from cat.mad_hatter.decorators import tool, hook
     return_direct=False,
     examples=[
         "send messages to telegram",
-        "inform telegram receipients",
+        "inform telegram recipients",
         "发TG消息",
         "向Telegram发消息",
         "发消息到TG："
