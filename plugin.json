@@ -2,6 +2,7 @@
     "name": "Telegram message sender",
     "description": "Send messages to telegram",
     "version": "0.1.0",
+    "plugin_url": "https://github.com/zhangmjcn/telegram-message-sender-for-cheshire-cat",
     "author_name": "Jay ZHANG",
     "author_url": "zhangmjcn@gmail.com",
     "tags": "Telegram, messages"
